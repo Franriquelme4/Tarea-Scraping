@@ -1,0 +1,20 @@
+Python,278,201
+C,44,053
+Java,165,211
+C++,45,556
+C#,47,056
+Visual Basic,711
+JavaScript,310,144
+Assembly language,1,136
+SQL,24,425
+PHP,89,911
+Delphi/Object Pascal,1,598
+Swift,33,996
+R,26,326
+Go,41,851
+Classic Visual Basic,893
+Objective-C,5,460
+Perl,3,841
+Lua,9,654
+Ruby,28,310
+MATLAB,9,732
